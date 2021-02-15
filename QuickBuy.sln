@@ -1,13 +1,15 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.29806.167
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.902
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "QuickBuy.Dominio", "QuickBuy.Dominio\QuickBuy.Dominio.csproj", "{16AC7369-D292-459F-A455-D213B4433217}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "QuickBuy.Repositorio", "QuickBuy.Repositorio\QuickBuy.Repositorio.csproj", "{C4617036-0800-4DBC-936B-780B694C3CE0}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "QuickBuy.Web", "QuickBuy.Web\QuickBuy.Web.csproj", "{8754271C-3A4C-4F3C-8976-B3EB43A687C3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVC_Entity", "MVC_Entity\MVC_Entity.csproj", "{FCF23B2F-BD76-4044-8401-935B9FAFCE2A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{8754271C-3A4C-4F3C-8976-B3EB43A687C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8754271C-3A4C-4F3C-8976-B3EB43A687C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8754271C-3A4C-4F3C-8976-B3EB43A687C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FCF23B2F-BD76-4044-8401-935B9FAFCE2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCF23B2F-BD76-4044-8401-935B9FAFCE2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCF23B2F-BD76-4044-8401-935B9FAFCE2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCF23B2F-BD76-4044-8401-935B9FAFCE2A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
